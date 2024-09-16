@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there 👋 I'm Katie
+
+- 🔭 I’m currently working on investigating how climate and environmental change impacts communities
+- 👯 I’m looking to collaborate on studies investigating community dynamics, big data integration projects, and as always, zoonotic and vector-borne diseases 😄
+- 📫 How to reach me: kiyoung@utep.edu
+
 
 <!--
 **Kiy761/Kiy761** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
